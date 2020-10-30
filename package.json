@@ -1,0 +1,15 @@
+{
+  "name": "import_cops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florian Wenzel <mail@florian-wenzel.io> (https://florian-wenzel.io)",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "xlsx": "^0.16.8"
+  }
+}
